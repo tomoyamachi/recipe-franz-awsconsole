@@ -1,0 +1,14 @@
+{
+  "id": "aws",
+  "name": "Amazon AWS",
+  "version": "0.0.1",
+  "description": "Amazon Web Services",
+  "main": "index.js",
+  "author": "Abdoul Ndiaye",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://signin.aws.amazon.com/console",
+    "serviceName": "Amazon Web Services",
+    "hasNotificationSound": true
+  }
+}
